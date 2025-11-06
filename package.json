@@ -1,0 +1,29 @@
+{
+  "name": "gmail-clone",
+  "version": "1.0.0",
+  "description": "A simple and responsive Gmail clone built using HTML, CSS, and Tailwind CSS.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xCybri-313/Gmail-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xCybri-313/Gmail-Clone/issues"
+  },
+  "homepage": "https://github.com/0xCybri-313/Gmail-Clone#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "tailwindcss": "^4.1.16"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.7.1"
+  }
+}
