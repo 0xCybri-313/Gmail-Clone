@@ -2,6 +2,8 @@
 
 /* Custom styles can be added here */
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
   --breakpoint-xs: 21rem; /* 336px */
   --breakpoint-sm: 28rem; /* 448px */
